@@ -5,3 +5,4 @@ line4
 Line5
 =======
 >>>>>>> parent of 3819405... line4
+Line6
